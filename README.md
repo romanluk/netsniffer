@@ -1,3 +1,1 @@
-# Netsniffer
-
-Netsniffer is a lightweight network sniffer
+A lightweight network sniffer
